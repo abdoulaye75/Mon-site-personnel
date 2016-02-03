@@ -1,0 +1,4 @@
+- Si possible, une aide à la navigation sur toute la largeur de la page
+- L'aide à la navigation en bleu foncée (code couleur : #0066DC), les liens en blanc (orange et souligné au survol)
+- Les liens de la barre de navigation en blanc, souligné et fond de couleur noir au survol
+- Dans les pages où il y a une pagination, ajouter une section à gauche qui sera un sommaire
