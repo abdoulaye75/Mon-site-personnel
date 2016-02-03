@@ -1,0 +1,2 @@
+- Mettre les images sur une largeur de 100% et une hauteur de 350 pixels
+- Enlever le fond de couleur de la page
